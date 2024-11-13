@@ -1,0 +1,1 @@
+This project outlines the design of an autonomous ground-penetrating radar. The robot features a custom acrylic and aluminum frame that balances structural strength and weight for enhanced mobility. Omnidirectional wheels allow flexible scanning patterns, enabling efficient GPR data collection for improved mapping across various fields. 
